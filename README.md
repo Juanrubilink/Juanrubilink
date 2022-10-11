@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juanrubilink
+- 👋 Hi, I’m @Juanrubilink, one of the members of rubilink.
 - 👀 I’m interested in programming and blockchain.
 - 🌱 I’m currently learning GO, React, Tailwind, and Python.
 - 💞️ I’m looking to collaborate on building a blockchain network.
